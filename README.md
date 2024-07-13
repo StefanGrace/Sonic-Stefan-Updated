@@ -9,6 +9,8 @@
 -	Fixed bug where boss would look like you were hitting it before you enter. 
 -	Fixed bug where Sonic would sometimes get stuck at the edge of platforms.
 -	Fixed spelling of "Grand Finale".
+-	Fixed bug where Glue Factory lasers would continue on too far.
+-	Fixed collision mask for mobs other than snake
 
 **Enhancements**
 -	Added explosion animation when mobs are killed.
@@ -20,8 +22,10 @@
 -	Added spin and jump sounds.
 -	Made it so when you press a switch it makes a sound and the switch looks like it has been pressed.
 -	Added splash sound when Sonic enters water.
--	Level layouts have been tweaked. 
 -	Performance improvements. 
 -	Made window title display game name and act instead of score
 -	Made it so that ladders can only be entered from the bottom and exited from the top
 -	Added a balloon pop sound
+-	Added shading to the edges of platforms in Nature Zone
+-	Made the UI more readable 
+-	Changed Glue Factory Zone's music from "Jack Trammell - Neosphere" to "Walk Home - Solar" due to copyright.
