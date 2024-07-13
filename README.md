@@ -25,5 +25,3 @@
 -	Made window title display game name and act instead of score
 -	Made it so that ladders can only be entered from the bottom and exited from the top
 -	Added a balloon pop sound
-
-*This is still work-in-progress, I haven't finished updating it yet.*
